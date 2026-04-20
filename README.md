@@ -73,7 +73,7 @@ Tengo conocimientos en frontend (HTML, CSS), pero mi enfoque principal está en 
 ### Bases de datos
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sqlserver" />
+<img src="https://skillicons.dev/icons?i=sqlserver,mongodb" />
 </p>
 
 ### Herramientas
@@ -97,7 +97,7 @@ Tengo conocimientos en frontend (HTML, CSS), pero mi enfoque principal está en 
 * Backend con **C# + SQL Server**
 * Diseño de bases de datos desde cero
 * Mejora de arquitectura de proyectos
-* Organización de desarrollo tipo Kanban
+
 
 ---
 
@@ -121,12 +121,10 @@ Tengo conocimientos en frontend (HTML, CSS), pero mi enfoque principal está en 
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:mtzzzleider580@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
 
 
-- ⚡ Fun fact: ...
--->
