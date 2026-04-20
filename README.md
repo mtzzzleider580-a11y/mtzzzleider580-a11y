@@ -23,7 +23,7 @@ Construyo sistemas con enfoque en <strong>lógica</strong>,
 </p>
 
 <img
-src="https://raw.githubusercontent.com/mtzzzleider580-a11y/mtzzzleider580-a11y/main/tu-foto.jpg"
+src="https://raw.githubusercontent.com/mtzzzleider580-a11y/mtzzzleider580-a11y/main/retrato_comprimido.jpg"
 width="140"
 style="border-radius: 50%;"
 />
